@@ -1,0 +1,5 @@
+datasets
+pandas
+ipykernel
+openai
+python-dotenv
